@@ -1,0 +1,6 @@
+---
+default: -p html -p bdd
+html: --format html --out=results/feature.html
+bdd: --format pretty
+dot: --format progress
+
